@@ -8,8 +8,5 @@ docker*entrypoint*sh @abxy-one/abxy-infrastructure
 Docker* @abxy-one/abxy-infrastructure
 
 
-# Default ownership rules
-.github/dependabot.y*ml @abxy-one/abxy-engineering
-
 # Repo specific ownership rules
 * @abxy-one/abxy-infrastructure
